@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![github-stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sho-chan-081)
+![github-stats](https://github-readme-stats.vercel.app/api?username=sho-chan-081)
+ 
